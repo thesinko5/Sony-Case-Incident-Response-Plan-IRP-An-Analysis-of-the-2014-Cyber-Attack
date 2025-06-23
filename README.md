@@ -1,0 +1,16 @@
+# Sony Case Incident Response Plan (IRP): An Analysis of the 2014 Cyber Attack
+
+## Introduction
+In late 2014, Sony Pictures Entertainment suffered one of the most high-profile cyber attacks in corporate history...
+
+## Overview of the Incident
+...
+
+## Incident Response Plan Breakdown
+...
+
+## Lessons Learned
+...
+
+## Conclusion
+...
